@@ -128,7 +128,7 @@ Notes:
 
 - `DB_HOST` (default: `localhost`)
 - `DB_USER` (default: `root`)
-- `DB_PASSWORD` (default: `root123`)
+- `DB_PASSWORD` (default: `root111`)
 - `DB_NAME` (default: `amazon_monitor`)
 
 ### 8.2 Crawl scope
